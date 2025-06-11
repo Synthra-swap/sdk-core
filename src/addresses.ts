@@ -236,13 +236,13 @@ const BLAST_ADDRESSES: ChainAddresses = {
 }
 
 const UOMI_ADDRESSES: ChainAddresses = {
-  v3CoreFactoryAddress: '0x3A1A8c1c0296A05D6ABe54beFc4f459b5EafAc2e',
-  multicallAddress: '0x6367CaEa1bB121FD2Bc4E142C10a5D8102F43f1E',
-  quoterAddress: '0xaD06Afe3d1A27EDBf302092c1F4eD58B5454377c',
-  v3MigratorAddress: '0x823924aA0C4EE369a0480a7543DE285f43176Cf9',
-  nonfungiblePositionManagerAddress: '0x16070E9380dF8F3B502bE031D95D503066BE7aFe',
-  tickLensAddress: '0xa86dd436a57798D9bf46966940cc57b2f468FEE2',
-  swapRouter02Address: '0xb205eAd7e5f6ec4b09D6c0ec5C7faC2BbaA06D9c'
+  v3CoreFactoryAddress: '0x490d9C4bFEC3CeE8DFF45C90f9a6F550337c9517',
+  multicallAddress: '0xaDD90b7787B22106e10E4530dfc9d58D4c508791',
+  quoterAddress: '0xCcB2B2F8395e4462d28703469F84c95293845332',
+  v3MigratorAddress: '0xde4d72aB8f4E5B2b3eA80FBe7FcFFE7687e929e2',
+  nonfungiblePositionManagerAddress: '0x906515Dc7c32ab887C8B8Dce6463ac3a7816Af38',
+  tickLensAddress: '0xD36cA9255dea7837cE1D5B816B3b8d89c3D41152',
+  swapRouter02Address: '0x2046bAA610FFCF4FBfaCE6bB5c3178f51773db82'
 }
 
 export const CHAIN_TO_ADDRESSES_MAP: Record<SupportedChainsType, ChainAddresses> = {
